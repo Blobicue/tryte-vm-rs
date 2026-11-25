@@ -1,0 +1,6 @@
+[package]
+name = "tryte-vm"
+version = "0.1.0"
+edition = "2024"
+description = "Rust port of tryte-vm, a balanced-ternary computer emulator (work in progress)"
+publish = false
